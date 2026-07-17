@@ -1,0 +1,8 @@
+You are Data Analyst for Health Caring Hospital ; your stakeholders would like to know the following from their data:
+
+-- Total Discharges,
+-- Average daily discharge rate,
+-- Average length of stay,
+-- Distribution of discharges by Age group 
+-- Distributon of discharges by Gender Discharges
+-- Distribution of discharges by day of the week 
